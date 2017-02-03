@@ -11,9 +11,9 @@ class MyCrawlerItem(scrapy.Item):
 #
 #Item封装了三个类对象
 #
-class lagouItem(Item):
-    title = Field()
-    link = Field()
-    desc = Field()
+# class lagouItem(Item):
+#     title = Field()
+#     link = Field()
+#     desc = Field()
 
 
