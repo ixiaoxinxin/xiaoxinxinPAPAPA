@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import pymongo
-from pymongo import MongoClient
+from pymongo import mongo_client
 
 from scrapy.conf import settings
 from scrapy.exceptions import DropItem
